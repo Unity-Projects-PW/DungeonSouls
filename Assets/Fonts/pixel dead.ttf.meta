@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5863b1d2edc007348aa085b6b3a1b4c1
+timeCreated: 1524309819
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: pixel dead
+  fontNames:
+  - pixel dead
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

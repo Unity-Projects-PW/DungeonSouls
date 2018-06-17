@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 74f03a78ab28ecb48aca2995fcee8106
+timeCreated: 1524310525
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Another Brick
+  fontNames:
+  - Another Brick
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
