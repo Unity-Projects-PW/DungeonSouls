@@ -60,15 +60,6 @@ public class GameManager : MonoBehaviour
 				CheckIfSaveFileExist();
 			}
 
-//			musicSlider = GameObject.Find ("Sliders").transform.GetChild (0).GetChild (0).GetComponent<Slider> ();
-//			soundSlider = GameObject.Find ("Sliders").transform.GetChild (1).GetChild (0).GetComponent<Slider> ();
-//			continueBtn = GameObject.Find ("Continue Button").GetComponent<Button> ();
-//			optionsBtn = GameObject.Find ("Options Button").GetComponent<Button> ();
-//			newGameBtn = GameObject.Find ("New Game Button").GetComponent<Button> ();
-//			exitBtn = GameObject.Find ("Exit Button").GetComponent<Button> ();
-//			music = GameObject.Find ("Sliders").transform.GetChild (0).gameObject;
-//			sounds = GameObject.Find ("Sliders").transform.GetChild (1).gameObject;
-
 			newGameBtn.onClick.AddListener (StartGame);
 			continueBtn.onClick.AddListener (ContinueGame);
 			optionsBtn.onClick.AddListener (Options);
